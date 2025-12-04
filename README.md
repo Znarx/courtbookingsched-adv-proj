@@ -6,7 +6,7 @@ The Court Scheduling Booking App is a React Native mobile application that allow
 Features
 User Authentication: Sign up and log in using Firebase Authentication.
 Court Booking: Select available dates and times to book a court.
-Booking Management: Users can view, update, or cancel their reservations.
+Booking Management: Users can view or cancel their reservations. User can also can see if they are reserved or not.
 Admin Dashboard: Admins can view all bookings, track statuses, and manage schedules.
 Responsive Design: Clean mobile interface with image backgrounds and intuitive navigation.
 
